@@ -5,7 +5,7 @@
 <br>
 
 
-## Introduction
+## `Introduction`
 Welcome to the OYO App! This project is a study-purpose implementation of a hotel and room booking application, inspired by the OYO app, and built using the Flutter framework. The app includes a homepage, detail page, drawer, and booking page. 
 
 The primary aim of this project is to demonstrate UI design and basic navigation in Flutter. By replicating the features of a well-known hotel booking app, this project serves as an educational tool for understanding the development process, including the design, structure, and navigation of a mobile application. This app does not connect to a backend service or process actual bookings; it is strictly for learning and demonstration purposes.
@@ -22,7 +22,7 @@ This project not only showcases the capabilities of the Flutter framework in cre
 
  <br><br>
  
-## Features
+## `Features`
 - **Homepage**: Browse and explore available hotels and rooms.
 - **Detail Page**: View detailed information about a selected hotel or room.
 - **Drawer**: Access navigation options and settings through a sidebar drawer.
@@ -30,22 +30,35 @@ This project not only showcases the capabilities of the Flutter framework in cre
 
 <br>
 
-## Screenshots
+## `Screenshots`
 <img align = "left"  src = "https://github.com/SJaynesh/PR05_sky_scrapper_app/assets/115562979/82c80091-20b4-48c5-90a5-2927a8250097.png" width=22% height=35% >
 <img src = "https://github.com/SJaynesh/PR05_sky_scrapper_app/assets/115562979/82c80091-20b4-48c5-90a5-2927a8250097.png" width=22% height=35% >
 
 *Homepage*
 
+<br>
+
 ![Detail Page](link_to_detail_page_screenshot)
 *Detail Page*
+
+<br>
 
 ![Drawer](link_to_drawer_screenshot)
 *Drawer*
 
+<br>
+
 ![Booking Page](link_to_booking_page_screenshot)
 *Booking Page*
 
-## Installation
+<br><br>
+
+## `Video`
+
+
+<br><br>
+
+## `Installation`
 To run this project locally, follow these steps:
 
 1. **Clone the repository:**
@@ -67,11 +80,14 @@ To run this project locally, follow these steps:
     ```sh
     flutter run
     ```
+<br><br>
 
-## Usage
+## `Usage`
 Once the app is running, you can explore the different pages and features. Use the homepage to browse available hotels and rooms, click on a hotel to view more details, use the drawer for navigation, and book a room through the booking page.
 
-## Contributing
+<br><br>
+
+## `Contributing`
 Contributions are welcome! If you have any ideas or suggestions to improve the app, feel free to open an issue or submit a pull request.
 
 1. **Fork the repository**
@@ -80,13 +96,19 @@ Contributions are welcome! If you have any ideas or suggestions to improve the a
 4. **Push to the branch (`git push origin feature-branch`)**
 5. **Open a pull request**
 
-## License
+<br><br>
+
+## `License`
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/prachimanani01/LICENSE/blob/main/LICENSE) file for more details.
 
-## Contact
+<br><br>
+
+## `Contact`
 If you have any questions or feedback, feel free to reach out:
 
 - **Email:** prachimanani16@gmail.com
 - **GitHub:** [Prachi Manani](https://github.com/prachimanani01)
+
+<br>
 
 Thank you for checking out the OYO App!
