@@ -31,24 +31,34 @@ This project not only showcases the capabilities of the Flutter framework in cre
 <br>
 
 ## `Screenshots`
-<img align = "left"  src = "https://github.com/SJaynesh/PR05_sky_scrapper_app/assets/115562979/82c80091-20b4-48c5-90a5-2927a8250097.png" width=22% height=35% >
-<img src = "https://github.com/SJaynesh/PR05_sky_scrapper_app/assets/115562979/82c80091-20b4-48c5-90a5-2927a8250097.png" width=22% height=35% >
+<img align = "left"  src = "https://github.com/prachimanani01/OYO-APP/assets/144036679/aada4a39-09a7-4756-97a3-3c8c8fde07e6.png" width=22% height=35% >
+<img src = "https://github.com/prachimanani01/OYO-APP/assets/144036679/6390e220-f170-43f3-be6b-13d22b5a28cb.png" width=22% height=35% >
 
 *Homepage*
 
+
 <br>
 
-![Detail Page](link_to_detail_page_screenshot)
+
+<img  src = "https://github.com/prachimanani01/OYO-APP/assets/144036679/71c1550e-84c7-4a52-940f-cf123ffd98ff.png" width=22% height=35% >
+<br>
+
 *Detail Page*
 
 <br>
 
-![Drawer](link_to_drawer_screenshot)
+
+<img  src = "https://github.com/prachimanani01/OYO-APP/assets/144036679/a6d24ad0-0c17-44fc-b780-b77f6c403285.png" width=22% height=35% >
+<br>
+
 *Drawer*
 
 <br>
 
-![Booking Page](link_to_booking_page_screenshot)
+
+<img  src = "https://github.com/prachimanani01/OYO-APP/assets/144036679/d8c19698-68d8-40a6-ba8f-56500b7f0701.png" width=22% height=35% >
+<br>
+
 *Booking Page*
 
 <br><br>
